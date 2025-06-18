@@ -39,8 +39,8 @@ namespace SelectionHistory
 
         #region Menu Items
 
-        const string backMenuLabel = "Edit/Selection/Back %[";
-        const string forwardMenuLabel = "Edit/Selection/Forward %]";
+        const string backMenuLabel = "Edit/Selection/Back %-";
+        const string forwardMenuLabel = "Edit/Selection/Forward %#-";
 
         [MenuItem(backMenuLabel)]
         static void Back()
