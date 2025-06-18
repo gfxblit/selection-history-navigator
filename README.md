@@ -9,7 +9,7 @@ re-select the game object or asset that you previously had selected.
 
 Add the package to your project via
 [UPM](https://docs.unity3d.com/Manual/upm-ui.html) using the Git URL
-https://github.com/mminer/selection-history-navigator.git. You can also clone
+https://github.com/gfxblit/selection-history-navigator.git. You can also clone
 the repository and point UPM to your local copy.
 
 
