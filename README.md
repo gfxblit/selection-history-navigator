@@ -15,10 +15,8 @@ the repository and point UPM to your local copy.
 
 ## Using (fork updates usage for vscode keybindings)
 
-After clicking on a few game objects or assets, press <kbd>command</kbd>
-<kbd>-</kbd> (macOS) or <kbd>ctrl</kbd> <kbd>-</kbd> (Windows) to return to the
-previous selection.
+After clicking on a few game objects or assets, press <kbd>control</kbd>
+<kbd>-</kbd> to return to the previous selection.
 
 After navigating backward, you can also navigate forward with
-<kbd>command-shift</kbd> <kbd>-</kbd> (macOS) or <kbd>ctrl-shift</kbd> <kbd>-</kbd>
-(Windows).
+<kbd>control-shift</kbd> <kbd>-</kbd>.
